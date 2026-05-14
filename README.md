@@ -1,29 +1,29 @@
-# Student Result Management System
+Student Result Management System
 
-## Project Overview
+Project Overview
 This project is built using MySQL to manage student records, marks, subjects, and attendance.
 
-## Features
+Features
 - Student management
 - Marks management
 - Attendance tracking
 - Grade calculation
 - Performance analysis
 
-## Technologies Used
+Technologies Used
 - MySQL
 - SQL
 - phpMyAdmin
 - XAMPP
 
-## SQL Concepts Used
+SQL Concepts Used
 - Joins
 - Aggregate Functions
 - Group By
 - CRUD Operations
 - CASE Statements
 
-## Sample Queries
+Sample Queries
 - Find topper
 - Calculate average marks
 - Attendance report
